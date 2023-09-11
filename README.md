@@ -12,10 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ssiqueiramatheus&show_icons=true" />
 </picture>
   
-  <div style="display: inline_block"><br>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/ssiqueiramatheus/github-readme-stats)
     
-</div>
+
   
   ##
   
